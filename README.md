@@ -8,16 +8,16 @@ This repository hosts a personal collection of software engineering books, organ
 
 ## Featured Books
 
-| Title | Author | Year | Topic |
-|-------|--------|------|-------|
-| Clean Architecture | Robert C. Martin | 2017 | Software Architecture |
-| Clean Code | Robert C. Martin | 2008 | Code Quality |
-| Spring in Action (6th Ed.) | Craig Walls | 2022 | Java Framework |
-| Fullstack D3 and Data Visualization | Amelia Wattenberger | 2020 | Data Visualization |
-| Modern Software Engineering | David Farley | 2021 | Engineering Practices |
+| Title                                 | Author                   | Year | Topic                 |
+| ------------------------------------- | ------------------------ | ---- | --------------------- |
+| Clean Architecture                    | Robert C. Martin         | 2017 | Software Architecture |
+| Clean Code                            | Robert C. Martin         | 2008 | Code Quality          |
+| Spring in Action (6th Ed.)            | Craig Walls              | 2022 | Java Framework        |
+| Fullstack D3 and Data Visualization   | Amelia Wattenberger      | 2020 | Data Visualization    |
+| Modern Software Engineering           | David Farley             | 2021 | Engineering Practices |
 | Fundamentals of Software Architecture | Mark Richards, Neal Ford | 2020 | Software Architecture |
-| The Linux Command Line | William Shotts | 2019 | System Administration |
-| Refactoring (2nd Ed.) | Martin Fowler | 2018 | Code Improvement |
+| The Linux Command Line                | William Shotts           | 2019 | System Administration |
+| Refactoring (2nd Ed.)                 | Martin Fowler            | 2018 | Code Improvement      |
 
 ## Features
 
@@ -39,16 +39,18 @@ This repository hosts a personal collection of software engineering books, organ
 ### Local Development
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/littlee.github.io.git
    cd littlee.github.io
    ```
 
 2. Open `index.html` in your browser, or serve with a local server:
+
    ```bash
    # Using Python
    python -m http.server 8000
-   
+
    # Using Node.js
    npx serve
    ```
@@ -117,3 +119,5 @@ This project is for educational purposes. All books remain the property of their
 ---
 
 **Note**: This repository is maintained for personal educational use. If you are a copyright holder and would like content removed, please open an issue or contact the repository owner.
+
+### [See the side here](https://books-software.netlify.app/)
