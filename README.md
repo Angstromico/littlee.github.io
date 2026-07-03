@@ -8,19 +8,19 @@ This repository hosts a personal collection of software engineering books, organ
 
 ## Featured Books
 
-| Title                                 | Author                   | Year | Topic                 |
-| ------------------------------------- | ------------------------ | ---- | --------------------- |
-| Clean Architecture                    | Robert C. Martin         | 2017 | Software Architecture |
-| Clean Code                            | Robert C. Martin         | 2008 | Code Quality          |
-| Spring in Action (6th Ed.)            | Craig Walls              | 2022 | Java Framework        |
-| Fullstack D3 and Data Visualization   | Amelia Wattenberger      | 2020 | Data Visualization    |
-| Modern Software Engineering           | David Farley             | 2021 | Engineering Practices |
-| Fundamentals of Software Architecture | Mark Richards, Neal Ford | 2020 | Software Architecture |
-| The Linux Command Line                | William Shotts           | 2019 | System Administration |
-| Refactoring (2nd Ed.)                 | Martin Fowler            | 2018 | Code Improvement      |
+| Title                                 | Author                                | Year | Topic                 |
+| ------------------------------------- | ------------------------------------- | ---- | --------------------- |
+| Clean Architecture                    | Robert C. Martin                      | 2017 | Software Architecture |
+| Clean Code                            | Robert C. Martin                      | 2008 | Code Quality          |
+| Spring in Action (6th Ed.)            | Craig Walls                           | 2022 | Java Framework        |
+| Fullstack D3 and Data Visualization   | Amelia Wattenberger                   | 2020 | Data Visualization    |
+| Modern Software Engineering           | David Farley                          | 2021 | Engineering Practices |
+| Fundamentals of Software Architecture | Mark Richards, Neal Ford              | 2020 | Software Architecture |
+| The Linux Command Line                | William Shotts                        | 2019 | System Administration |
+| Refactoring (2nd Ed.)                 | Martin Fowler                         | 2018 | Code Improvement      |
 | The C Programming Language            | Brian W. Kernighan, Dennis M. Ritchie | 1988 | Programming Languages |
-| The Rust Programming Language          | The Rust Project Developers | 2023 | Programming Languages |
-| Learning Zig                          | Kugler                   | 2024 | Programming Languages |
+| The Rust Programming Language         | The Rust Project Developers           | 2023 | Programming Languages |
+| Learning Zig                          | Alex Rios                             | 2024 | Programming Languages |
 
 ## Features
 
