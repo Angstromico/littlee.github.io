@@ -34,11 +34,24 @@ Start with these essential reads to build a solid foundation in software enginee
 
 ---
 
+#### 3. The C Programming Language
+**Author**: Brian W. Kernighan, Dennis M. Ritchie  
+**Year**: 1988 (2nd Edition)  
+**Why Read**: The definitive reference on C by its creators. Understanding C provides insight into how computers work at a low level and forms the foundation for many modern languages.
+
+**Key Takeaways**:
+- Pointers and memory management
+- Data structures and algorithms
+- Low-level programming concepts
+- Portability and efficiency
+
+---
+
 ### Intermediate Level
 
 After mastering the fundamentals, focus on improving existing code and understanding architectural patterns:
 
-#### 3. Refactoring: Improving the Design of Existing Code
+#### 4. Refactoring: Improving the Design of Existing Code
 **Author**: Martin Fowler  
 **Year**: 2018 (2nd Edition)  
 **Why Read**: Learn systematic techniques to improve code without changing its behavior. Essential for maintaining large codebases.
@@ -51,7 +64,7 @@ After mastering the fundamentals, focus on improving existing code and understan
 
 ---
 
-#### 4. Fullstack D3 and Data Visualization
+#### 5. Fullstack D3 and Data Visualization
 **Author**: Amelia Wattenberger  
 **Year**: 2020  
 **Why Read**: Modern applications require data visualization skills. D3.js is the standard for creating interactive charts and dashboards.
@@ -68,7 +81,7 @@ After mastering the fundamentals, focus on improving existing code and understan
 
 For experienced developers ready to tackle system design and architecture:
 
-#### 5. Clean Architecture: A Craftsman's Guide to Software Structure and Design
+#### 6. Clean Architecture: A Craftsman's Guide to Software Structure and Design
 **Author**: Robert C. Martin  
 **Year**: 2017  
 **Why Read**: Defines architectural boundaries and principles for building maintainable systems. Builds on Clean Code concepts at the system level.
@@ -81,7 +94,7 @@ For experienced developers ready to tackle system design and architecture:
 
 ---
 
-#### 6. Fundamentals of Software Architecture
+#### 7. Fundamentals of Software Architecture
 **Author**: Mark Richards, Neal Ford  
 **Year**: 2020  
 **Why Read**: Comprehensive coverage of architecture patterns, trade-offs, and decision-making frameworks.
@@ -94,7 +107,7 @@ For experienced developers ready to tackle system design and architecture:
 
 ---
 
-#### 7. Modern Software Engineering
+#### 8. Modern Software Engineering
 **Author**: David Farley  
 **Year**: 2021  
 **Why Read**: Explores engineering principles applied to software development, focusing on practices that lead to better outcomes.
@@ -111,7 +124,7 @@ For experienced developers ready to tackle system design and architecture:
 
 Specialized knowledge for particular technology stacks:
 
-#### 8. Spring in Action
+#### 9. Spring in Action
 **Author**: Craig Walls  
 **Year**: 2022 (6th Edition)  
 **Why Read**: The definitive guide for Java developers building enterprise applications with the Spring ecosystem.
@@ -124,18 +137,33 @@ Specialized knowledge for particular technology stacks:
 
 ---
 
+#### 10. The Rust Programming Language
+**Author**: The Rust Project Developers  
+**Year**: 2023 (2nd Edition)  
+**Why Read**: The official guide to Rust, a systems programming language focused on safety, concurrency, and performance. Essential for modern systems programming.
+
+**Key Takeaways**:
+- Ownership, borrowing, and lifetimes
+- Pattern matching and enums
+- Error handling with Result and Option
+- Concurrency without data races
+
+---
+
 ## Reading Progress Tracker
 
 | Book | Status | Start Date | End Date | Notes |
 |------|--------|------------|----------|-------|
 | Clean Code | 📖 Reading | - | - | - |
 | The Linux Command Line | 📋 To Read | - | - | - |
+| The C Programming Language | 📋 To Read | - | - | - |
 | Refactoring | 📋 To Read | - | - | - |
 | Fullstack D3 | 📋 To Read | - | - | - |
 | Clean Architecture | 📋 To Read | - | - | - |
 | Fundamentals of Software Architecture | 📋 To Read | - | - | - |
 | Modern Software Engineering | 📋 To Read | - | - | - |
 | Spring in Action | 📋 To Read | - | - | - |
+| The Rust Programming Language | 📋 To Read | - | - | - |
 
 **Legend**: 📋 To Read | 📖 Reading | ✅ Completed
 
