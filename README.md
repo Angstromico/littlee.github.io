@@ -20,6 +20,7 @@ This repository hosts a personal collection of software engineering books, organ
 | Refactoring (2nd Ed.)                 | Martin Fowler            | 2018 | Code Improvement      |
 | The C Programming Language            | Brian W. Kernighan, Dennis M. Ritchie | 1988 | Programming Languages |
 | The Rust Programming Language          | The Rust Project Developers | 2023 | Programming Languages |
+| Learning Zig                          | Kugler                   | 2024 | Programming Languages |
 
 ## Features
 

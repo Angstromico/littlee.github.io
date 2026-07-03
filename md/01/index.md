@@ -150,6 +150,19 @@ Specialized knowledge for particular technology stacks:
 
 ---
 
+#### 11. Learning Zig: A Reimagined Introduction to Low-Level Programming with Zig
+**Author**: Kugler  
+**Year**: 2024 (1st Edition)  
+**Why Read**: A comprehensive introduction to Zig, a modern systems programming language that combines C-like performance with safety features. Perfect for understanding manual memory management in a modern context.
+
+**Key Takeaways**:
+- Manual memory management without garbage collection
+- Comptime and compile-time code execution
+- Cross-platform development and build systems
+- Interfacing with C and low-level concepts
+
+---
+
 ## Reading Progress Tracker
 
 | Book | Status | Start Date | End Date | Notes |
@@ -164,6 +177,7 @@ Specialized knowledge for particular technology stacks:
 | Modern Software Engineering | 📋 To Read | - | - | - |
 | Spring in Action | 📋 To Read | - | - | - |
 | The Rust Programming Language | 📋 To Read | - | - | - |
+| Learning Zig | 📋 To Read | - | - | - |
 
 **Legend**: 📋 To Read | 📖 Reading | ✅ Completed
 
